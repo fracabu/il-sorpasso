@@ -1,0 +1,198 @@
+{
+  "nav": {
+    "about": "About Us",
+    "services": "Services",
+    "tour": "Tour in Italy",
+    "why": "Why Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Over {count} vintage vehicles for your film",
+    "cta": "Contact Us"
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "Since 1980, Il Sorpasso has been the reference point for vintage car rental in the Italian and international film industry.",
+    "description2": "Our passion for historic cars and deep knowledge of the film industry have allowed us to build one of the largest collections of vintage vehicles in Europe.",
+    "description3": "We collaborate with the most important production houses, guaranteeing not only the means but also historical consulting and technical support for any type of project.",
+    "cta": "Contact Us Now"
+  },
+  "services": {
+    "title": "Our Services",
+    "rental": {
+      "title": "Scene Vehicle Rental",
+      "categories": {
+        "vintage": {
+          "title": "VINTAGE CARS",
+          "subtitle": "From 1900 to today",
+          "description": "Classic, sports and luxury",
+          "longDescription": "Our collection of vintage cars spans from 1900 to today, offering a wide range of vehicles for every cinematic need.",
+          "cars": {
+            "alfa": {
+              "title": "Vintage Alfa Romeo",
+              "description": "Italian elegance and sportiness from the 60s"
+            },
+            "porsche": {
+              "title": "Classic Porsche 911",
+              "description": "The icon of German sports cars in classic version"
+            },
+            "ferrari": {
+              "title": "Ferrari Testarossa",
+              "description": "The 80s legend in all its glory"
+            }
+          }
+        },
+        "special": {
+          "title": "SPECIAL VEHICLES",
+          "subtitle": "Guaranteed versatility",
+          "description": "Trucks, vans and military vehicles for every need",
+          "longDescription": "From our fleet of special vehicles, we offer a wide selection of military vehicles, vintage trucks and historic vans.",
+          "vehicles": {
+            "military": {
+              "title": "Military Vehicles",
+              "description": "Authentic military vehicles for war scenes and historical documentaries"
+            },
+            "trucks": {
+              "title": "Vintage Trucks",
+              "description": "Period trucks perfect for historical scenes and retro settings"
+            },
+            "vans": {
+              "title": "Classic Vans",
+              "description": "Vintage vans to give a nostalgic touch to your shots"
+            }
+          }
+        },
+        "sea": {
+          "title": "SEA & AIR",
+          "subtitle": "No limits",
+          "description": "Boats, yachts, planes and helicopters",
+          "longDescription": "From vintage boats to historic aircraft, we offer a unique selection of vehicles for your sea and air shots.",
+          "vehicles": {
+            "yacht": {
+              "title": "Vintage Yachts",
+              "description": "Elegant historic vessels for period maritime scenes"
+            },
+            "planes": {
+              "title": "Classic Aircraft",
+              "description": "Historic aircraft for aerial scenes and period settings"
+            },
+            "boats": {
+              "title": "Vintage Speedboats",
+              "description": "Classic speedboats for dynamic water scenes"
+            }
+          }
+        },
+        "custom": {
+          "title": "CUSTOMIZATION",
+          "subtitle": "Made to measure",
+          "description": "Modifications and transformations for your scenes",
+          "longDescription": "Our team of experts can modify and customize vehicles according to your specific needs.",
+          "services": {
+            "paint": {
+              "title": "Custom Paint",
+              "description": "Complete livery customization for every scenic need"
+            },
+            "interior": {
+              "title": "Interior Modification",
+              "description": "Interior reconstruction and customization according to historical period"
+            },
+            "effects": {
+              "title": "Special Effects",
+              "description": "Structural modifications for action scenes and special effects"
+            }
+          }
+        },
+        "wedding": {
+          "title": "WEDDING CARS",
+          "subtitle": "The most beautiful day",
+          "description": "Search and sale of vintage cars for weddings",
+          "longDescription": "We make every couple's dream come true by finding the perfect car for their special day. Personalized search service and purchase consulting.",
+          "cars": {
+            "rolls": {
+              "title": "Rolls Royce Silver Cloud",
+              "description": "The timeless elegance of Rolls Royce, perfect for an unforgettable wedding"
+            },
+            "bentley": {
+              "title": "Bentley Continental",
+              "description": "British luxury and modern performance in a car that doesn't go unnoticed"
+            },
+            "mercedes": {
+              "title": "Mercedes-Benz S-Class",
+              "description": "The ultimate in German comfort and elegance for your special day"
+            }
+          }
+        }
+      }
+    },
+    "tour": {
+      "title": "Tour in Italy",
+      "locations": {
+        "amalfi": {
+          "title": "Amalfi Coast",
+          "description": "Breathtaking scenery along the coast"
+        },
+        "tuscany": {
+          "title": "Tuscany",
+          "description": "Scenic roads through hills and vineyards"
+        },
+        "como": {
+          "title": "Lake Como",
+          "description": "Exclusive locations on the lake"
+        },
+        "sicily": {
+          "title": "Sicily",
+          "description": "Between history and crystal clear sea"
+        },
+        "dolomites": {
+          "title": "Dolomites",
+          "description": "Breathtaking alpine routes"
+        }
+      }
+    }
+  },
+  "why": {
+    "title": "Why Choose Us",
+    "features": {
+      "experience": {
+        "number": "20+",
+        "title": "Years of Experience",
+        "description": "On the set of the most important Italian and international productions"
+      },
+      "coverage": {
+        "number": "100%",
+        "title": "National Coverage",
+        "description": "Vehicles available throughout Italy to optimize transport costs"
+      },
+      "support": {
+        "number": "24/7",
+        "title": "Always Ready",
+        "description": "Quick response and immediate solutions for every production need"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help you find the perfect vehicle for your project",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "Your email",
+      "messagePlaceholder": "Describe your project or request...",
+      "submit": "Send Request",
+      "sending": "Sending...",
+      "error": "An error occurred while sending the request",
+      "success": {
+        "title": "Thank you for contacting us!",
+        "message": "Your request has been sent successfully. We will respond to the email address provided as soon as possible."
+      }
+    }
+  },
+  "footer": {
+    "services": "Services",
+    "company": "Company",
+    "contacts": "Contacts",
+    "rights": "All rights reserved"
+  }
+}

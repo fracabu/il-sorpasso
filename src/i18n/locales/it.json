@@ -1,0 +1,198 @@
+{
+  "nav": {
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "tour": "Tour in Italia",
+    "why": "Perché Noi",
+    "contact": "Contattaci"
+  },
+  "hero": {
+    "subtitle": "Oltre {count} veicoli d'epoca per il tuo film",
+    "cta": "Contattaci"
+  },
+  "about": {
+    "title": "Chi Siamo",
+    "description1": "Dal 1980, Il Sorpasso è il punto di riferimento per il noleggio di auto d'epoca nel mondo cinematografico italiano ed internazionale.",
+    "description2": "La nostra passione per le auto storiche e la profonda conoscenza del settore cinematografico ci hanno permesso di costruire una delle più grandi collezioni di veicoli d'epoca in Europa.",
+    "description3": "Collaboriamo con le più importanti case di produzione, garantendo non solo i mezzi, ma anche consulenza storica e supporto tecnico per ogni tipo di progetto.",
+    "cta": "Contattaci Ora"
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "rental": {
+      "title": "Noleggio Mezzi di Scena",
+      "categories": {
+        "vintage": {
+          "title": "AUTO D'EPOCA",
+          "subtitle": "Dal 1900 ad oggi",
+          "description": "Classiche, sportive e di lusso",
+          "longDescription": "La nostra collezione di auto d'epoca spazia dal 1900 ad oggi, offrendo un'ampia gamma di veicoli per ogni esigenza cinematografica.",
+          "cars": {
+            "alfa": {
+              "title": "Alfa Romeo Vintage",
+              "description": "Eleganza e sportività italiana degli anni '60"
+            },
+            "porsche": {
+              "title": "Porsche 911 Classic",
+              "description": "L'icona delle sportive tedesche in versione classica"
+            },
+            "ferrari": {
+              "title": "Ferrari Testarossa",
+              "description": "Il mito degli anni '80 in tutta la sua gloria"
+            }
+          }
+        },
+        "special": {
+          "title": "MEZZI SPECIALI",
+          "subtitle": "Versatilità garantita",
+          "description": "Camion, furgoni e mezzi militari per ogni esigenza",
+          "longDescription": "Dalla nostra flotta di mezzi speciali, offriamo una vasta selezione di veicoli militari, camion d'epoca e furgoni storici.",
+          "vehicles": {
+            "military": {
+              "title": "Veicoli Militari",
+              "description": "Mezzi militari autentici per scene di guerra e documentari storici"
+            },
+            "trucks": {
+              "title": "Camion Vintage",
+              "description": "Camion d'epoca perfetti per scene storiche e ambientazioni retrò"
+            },
+            "vans": {
+              "title": "Furgoni Classici",
+              "description": "Furgoni vintage per dare un tocco nostalgico alle tue riprese"
+            }
+          }
+        },
+        "sea": {
+          "title": "MARE & ARIA",
+          "subtitle": "Senza limiti",
+          "description": "Barche, yacht, aerei ed elicotteri",
+          "longDescription": "Dalle barche d'epoca agli aerei storici, offriamo una selezione unica di mezzi per le tue riprese in mare e in aria.",
+          "vehicles": {
+            "yacht": {
+              "title": "Yacht d'Epoca",
+              "description": "Eleganti imbarcazioni storiche per scene marittime d'epoca"
+            },
+            "planes": {
+              "title": "Aerei Classici",
+              "description": "Velivoli storici per scene aeree e ambientazioni d'epoca"
+            },
+            "boats": {
+              "title": "Motoscafi Vintage",
+              "description": "Motoscafi classici per scene dinamiche sull'acqua"
+            }
+          }
+        },
+        "custom": {
+          "title": "PERSONALIZZAZIONE",
+          "subtitle": "Su misura",
+          "description": "Modifiche e trasformazioni per le tue scene",
+          "longDescription": "Il nostro team di esperti è in grado di modificare e personalizzare i veicoli secondo le tue esigenze specifiche.",
+          "services": {
+            "paint": {
+              "title": "Verniciatura Personalizzata",
+              "description": "Personalizzazione completa della livrea per ogni esigenza scenica"
+            },
+            "interior": {
+              "title": "Modifica Interni",
+              "description": "Ricostruzione e personalizzazione degli interni secondo periodo storico"
+            },
+            "effects": {
+              "title": "Effetti Speciali",
+              "description": "Modifiche strutturali per scene d'azione e effetti speciali"
+            }
+          }
+        },
+        "wedding": {
+          "title": "AUTO PER MATRIMONI",
+          "subtitle": "Il giorno più bello",
+          "description": "Ricerca e vendita di auto d'epoca per matrimoni",
+          "longDescription": "Realizziamo il sogno di ogni coppia trovando l'auto perfetta per il loro giorno speciale. Servizio di ricerca personalizzato e consulenza per l'acquisto.",
+          "cars": {
+            "rolls": {
+              "title": "Rolls Royce Silver Cloud",
+              "description": "L'eleganza senza tempo di Rolls Royce, perfetta per un matrimonio indimenticabile"
+            },
+            "bentley": {
+              "title": "Bentley Continental",
+              "description": "Lusso britannico e prestazioni moderne in un'auto che non passa inosservata"
+            },
+            "mercedes": {
+              "title": "Mercedes-Benz Classe S",
+              "description": "Il massimo del comfort e dell'eleganza tedesca per il vostro giorno speciale"
+            }
+          }
+        }
+      }
+    },
+    "tour": {
+      "title": "Tour in Italia",
+      "locations": {
+        "amalfi": {
+          "title": "Costa Amalfitana",
+          "description": "Scenari mozzafiato lungo la costa"
+        },
+        "tuscany": {
+          "title": "Toscana",
+          "description": "Strade panoramiche tra colline e vigneti"
+        },
+        "como": {
+          "title": "Lago di Como",
+          "description": "Location esclusive sul lago"
+        },
+        "sicily": {
+          "title": "Sicilia",
+          "description": "Tra storia e mare cristallino"
+        },
+        "dolomites": {
+          "title": "Dolomiti",
+          "description": "Percorsi alpini mozzafiato"
+        }
+      }
+    }
+  },
+  "why": {
+    "title": "Perché Scegliere Noi",
+    "features": {
+      "experience": {
+        "number": "20+",
+        "title": "Anni di Esperienza",
+        "description": "Sul set delle più importanti produzioni italiane e internazionali"
+      },
+      "coverage": {
+        "number": "100%",
+        "title": "Copertura Nazionale",
+        "description": "Veicoli disponibili in tutta Italia per ottimizzare i costi di trasporto"
+      },
+      "support": {
+        "number": "24/7",
+        "title": "Sempre Pronti",
+        "description": "Risposta rapida e soluzioni immediate per ogni esigenza di produzione"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Siamo qui per aiutarti a trovare il veicolo perfetto per il tuo progetto",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "message": "Messaggio",
+      "namePlaceholder": "Il tuo nome",
+      "emailPlaceholder": "La tua email",
+      "messagePlaceholder": "Descrivi il tuo progetto o la tua richiesta...",
+      "submit": "Invia Richiesta",
+      "sending": "Invio in corso...",
+      "error": "Si è verificato un errore durante l'invio della richiesta",
+      "success": {
+        "title": "Grazie per averci contattato!",
+        "message": "La tua richiesta è stata inviata con successo. Ti risponderemo al più presto all'indirizzo email fornito."
+      }
+    }
+  },
+  "footer": {
+    "services": "Servizi",
+    "company": "Azienda",
+    "contacts": "Contatti",
+    "rights": "Tutti i diritti riservati"
+  }
+}

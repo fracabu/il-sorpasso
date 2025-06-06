@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply m-0 min-h-screen bg-black text-white;
+}
+
+section {
+  @apply min-h-screen py-24;
+}
+
+.container {
+  @apply mx-auto max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 text-sm font-bold uppercase tracking-wider transition-colors rounded-lg;
+  }
+  
+  .btn-primary {
+    @apply btn bg-accent text-white hover:bg-red-700;
+  }
+  
+  .nav-link {
+    @apply font-bold uppercase tracking-wider text-white hover:text-accent transition-colors;
+  }
+
+  .service-card {
+    @apply bg-zinc-900 rounded-lg overflow-hidden transition-transform duration-300 hover:-translate-y-2;
+  }
+
+  .service-image {
+    @apply relative h-64 overflow-hidden;
+  }
+
+  .service-image img {
+    @apply w-full h-full object-cover transition-transform duration-500;
+  }
+
+  .service-card:hover .service-image img {
+    @apply scale-110;
+  }
+
+  .service-content {
+    @apply p-6;
+  }
+
+  .service-title {
+    @apply text-xl font-bold mb-2;
+  }
+
+  .service-description {
+    @apply text-zinc-400 mb-4;
+  }
+}
+
+/* Swiper styles */
+.tour-swiper {
+  padding-bottom: 3rem !important;
+}
+
+.tour-swiper .swiper-button-next,
+.tour-swiper .swiper-button-prev {
+  color: #DC2626 !important;
+}
+
+.tour-swiper .swiper-pagination-bullet {
+  background: #DC2626 !important;
+}
+
+.tour-swiper .swiper-pagination {
+  bottom: 0 !important;
+}
+
+/* Page transitions */
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.3s ease;
+}
+
+.page-enter-from,
+.page-leave-to {
+  opacity: 0;
+}
